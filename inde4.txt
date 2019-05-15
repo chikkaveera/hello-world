@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 creating conflicts
+=======
+creating conflicts in branch1
+>>>>>>> branch1
